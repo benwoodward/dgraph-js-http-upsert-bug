@@ -1,0 +1,15 @@
+{
+  "name": "dgraph-js-http-debug",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "throwaway node project to test dgraph-js-http bug",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Woodward",
+  "license": "ISC",
+  "dependencies": {
+    "dgraph-js-http": "^21.3.1"
+  }
+}
